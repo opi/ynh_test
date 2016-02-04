@@ -42,7 +42,7 @@
             "name": "testbool",
             "type": "boolean",
                 "ask": {
-                    "en": "Do you want to check this boolean",
+                    "en": "Do you want to check this boolean"
                 },
                 "default": "False"
             }
