@@ -45,8 +45,7 @@
                     "en": "Do you want to check this boolean",
                     "fr": "Tu veux cocher ce booléen"
                 },
-                "example": "False",
-                "default": "False"
+                "default": "True"
             }
         ]
     }
